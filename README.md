@@ -1,2 +1,2 @@
-# review
-the code which was asked in interview question
+# Review
+The code which are frequently asked in interview.
